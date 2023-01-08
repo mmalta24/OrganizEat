@@ -1,0 +1,5 @@
+;admin;Prato Principal;Lombinhos de Vaca;admin:
+;admin;Sopa;Caldo Verde;admin:Deliciosa
+;admin;Sopa;Caldo Verde;mmalta24:Uma receita sem duvida deliciosa.
+;admin;Prato Principal;Lombinhos;admin:Parece ser deliciosa.
+;admin;Sobremesa;Bolo de Chocolate;admin:Deliciosa
